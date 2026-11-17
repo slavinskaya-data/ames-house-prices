@@ -34,11 +34,11 @@
 3. **Ключевые драйверы ценообразования** — общее качество отделки и жилая площадь.
    ![Драйверы цены](https://github.com/user-attachments/assets/88df5bbf-06d2-4736-a15c-81bf485644e0)
 
-## 📊 Интерактивная визуализация
-
-🔗 **[Открыть интерактивный дашборд в Яндекс DataLens](https://datalens.yandex/wwsi5qae99u6f?_share_link=public)**
+## 📊 Рекомендации для заинтересованных сторон
     
  <img width="2017" height="991" alt="image" src="https://github.com/user-attachments/assets/054aa7cb-a053-4382-a043-4204f5830d59" />
+
+ 🔗 **[Открыть интерактивный дашборд в Яндекс DataLens](https://datalens.yandex/wwsi5qae99u6f?_share_link=public)**
 
 
     📄 Полный отчёт с методологией и источниками — в файле `Final_Report.pdf`.
