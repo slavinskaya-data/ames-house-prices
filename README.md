@@ -33,6 +33,7 @@
     <img width="1475" height="683" alt="image" src="https://github.com/user-attachments/assets/88df5bbf-06d2-4736-a15c-81bf485644e0" />
 
 🔗 **[Открыть интерактивный дашборд в Яндекс DataLens](https://datalens.yandex/wwsi5qae99u6f?_share_link=public)**
-    ![Выводы и рекомендации](<img width="2014" height="986" alt="image" src="https://github.com/user-attachments/assets/7a7f8305-821b-4ee0-906c-459d55e6ef40" />)
+    
+    <img width="2014" height="986" alt="image" src="https://github.com/user-attachments/assets/7a7f8305-821b-4ee0-906c-459d55e6ef40" />
 
     📄 Полный отчёт с методологией и источниками — в файле `Final_Report.pdf`.
